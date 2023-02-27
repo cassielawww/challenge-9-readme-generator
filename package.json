@@ -1,0 +1,18 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cassie Law",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "description": "README generator creates a README by replying to the prompt on the CLI",
+  "repository": {
+    "type": "git",
+    "url": "cassielawww"
+  }
+}
